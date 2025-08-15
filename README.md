@@ -46,6 +46,9 @@ Credo nel potere della tecnologia per comprendere e migliorare il nostro territo
 🔗 **LinkedIn**: [Haritiana Ratsimba](https://www.linkedin.com/in/haritiana-ratsimba-597737bb/)  
 📱 **Telefono**: (+39) 328 867 4552
 
+## 🎯 Cosa cerco
+Sono aperto a collaborazioni su progetti GIS, energie rinnovabili e visualizzazione dati. Se hai un’idea innovativa, parliamone!
+
 
 
 <!---
