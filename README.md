@@ -20,7 +20,7 @@ Credo nel potere della tecnologia per comprendere e migliorare il nostro territo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🗺️ GIS & Cartografia
-![QGIS](...) ![Global Mapper](...) ![Agisoft Metashape](...)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Global Mapper](...) ![Agisoft Metashape](...)
 
 ### 🏗️ CAD & Modellazione
 ![AutoCAD](...) ![BricsCAD](...)
