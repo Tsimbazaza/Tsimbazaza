@@ -15,8 +15,8 @@ Sono un ingegnere specializzato in Geomatica e Topografia, appassionato di tecno
 
 ## 🌐 Social & Contatti
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Tsimbazaza)  
-📧 Email: tuo@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/Tsimbazaza)
+📧 Email: simba.works90@gmail.com  
+🔗 [LinkedIn] https://www.linkedin.com/in/haritiana-ratsimba-597737bb/
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +24,9 @@ Sono un ingegnere specializzato in Geomatica e Topografia, appassionato di tecno
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Global Mapper](https://img.shields.io/badge/Global%20Mapper-1d3557?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) <!-- Badge generico, personalizzabile se hai un logo -->
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-e12127?style=for-the-badge&logo=autodesk&logoColor=white)
-![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-26a69a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) <!-- Badge generico, personalizzabile se hai un logo --><!---
+![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-26a69a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) <!-- Badge generico, personalizzabile se hai un logo -->
+
+<!---
 Tsimbazaza/Tsimbazaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
