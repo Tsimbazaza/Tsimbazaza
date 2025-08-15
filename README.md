@@ -14,16 +14,13 @@ Sono un ingegnere specializzato in Geomatica e Topografia, appassionato di tecno
 - **[Nome Progetto 2](link-progetto)**: breve descrizione del progetto.
 
 ## 🌐 Social & Contatti
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Tsimbazaza)
+[![Portfolio](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Tsimbazaza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tsimbazaza)
+🔗 [LinkedIn] https://www.linkedin.com/in/haritiana-ratsimba-597737bb/
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Tsimbazaza)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Tsimbazaza)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/Tsimbazaza)
-[![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Tsimbazaza)
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Tsimbazaza)  
+[![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Tsimbazaza) 
 📧 Email: simba.works90@gmail.com  
-🔗 [LinkedIn] https://www.linkedin.com/in/haritiana-ratsimba-597737bb/
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
