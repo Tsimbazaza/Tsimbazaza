@@ -11,7 +11,7 @@ Credo nel potere della tecnologia per comprendere e migliorare il nostro territo
 - Web designer
 
 ### 🗺️ GIS & Cartografia
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Global Mapper]([https://img.shields.io/badge/Global%20Mapper-1d3557?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=](https://seekvectorlogo.com/global-mapper-vector-logo-svg/)) ![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-26a69a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Global Mapper](https://img.shields.io/badge/Global%20Mapper-1d3557?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) ![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-26a69a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
 
 ### 🏗️ CAD & Modellazione
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-e12127?style=for-the-badge&logo=autodesk&logoColor=white) ![BricsCAD](https://img.shields.io/badge/BricsCAD-0082C3?style=for-the-badge)
