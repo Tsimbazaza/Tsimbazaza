@@ -20,7 +20,7 @@ Sono un ingegnere specializzato in Geomatica e Topografia, appassionato di tecno
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Tsimbazaza)
 [![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Tsimbazaza)
 
-📧 Email: simba.works90@gmail.com 
+📧 Email: simba.works90@gmail.com  
 🔗 [LinkedIn] https://www.linkedin.com/in/haritiana-ratsimba-597737bb/
 
 ## 💻 Tech Stack
