@@ -18,7 +18,8 @@ Sono un ingegnere specializzato in Geomatica e Topografia, appassionato di tecno
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tsimbazaza)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Tsimbazaza)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Tsimbazaza)
-[![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Tsimbazaza) 
+[![Xing](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=white)](https://www.xing.com/profile/Tsimbazaza)
+
 📧 Email: simba.works90@gmail.com
 🔗 [LinkedIn] https://www.linkedin.com/in/haritiana-ratsimba-597737bb/
 
