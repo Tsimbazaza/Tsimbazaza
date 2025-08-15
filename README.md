@@ -10,26 +10,17 @@ Credo nel potere della tecnologia per comprendere e migliorare il nostro territo
 - Topografia e rilievo del territorio
 - Web designer
 
-## 💻 Tech Stack
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Global Mapper](https://img.shields.io/badge/Global%20Mapper-1d3557?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) <!-- Badge generico, personalizzabile se hai un logo -->
-![AutoCAD](https://img.shields.io/badge/AutoCAD-e12127?style=for-the-badge&logo=autodesk&logoColor=white)
-![BricsCAD](https://img.shields.io/badge/BricsCAD-0082C3?style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-26a69a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) <!-- Badge generico, personalizzabile se hai un logo -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ### 🗺️ GIS & Cartografia
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Global Mapper](...) ![Agisoft Metashape](...)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Global Mapper](https://img.shields.io/badge/Global%20Mapper-1d3557?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=) ![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-26a69a?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=)
 
 ### 🏗️ CAD & Modellazione
-![AutoCAD](...) ![BricsCAD](...)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-e12127?style=for-the-badge&logo=autodesk&logoColor=white) ![BricsCAD](https://img.shields.io/badge/BricsCAD-0082C3?style=for-the-badge)
 
 ### 🎨 Design & Visualizzazione
-![Adobe Illustrator](...)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ### 🐍 Programmazione
-![Python](...)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 💡 Progetti in evidenza
 - **[Nome Progetto 1](link-progetto)**: breve descrizione del progetto.
