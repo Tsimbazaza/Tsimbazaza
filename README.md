@@ -5,7 +5,7 @@ Credo nel potere della tecnologia per comprendere e migliorare il nostro territo
 
 ## 🚀 Competenze principali
 - Analista GIS (Geographic Information System): laborazione e analisi di dati spaziali per supportare decisioni territoriali.
-- Progettista impianti eolici e fotovoltaici: studi di fattibilità e modellazione 3D per energie rinnovabili.
+- Progettista impianti eolici e fotovoltaici: inquadramento georeferenziato dei siti, analisi urbanistica e vincolistica, supporto tecnico nelle procedure di permitting, produzione layout preliminare, analisi di prefattibilità
 - Database management
 - Topografia e rilievo del territorio
 - Web designer
